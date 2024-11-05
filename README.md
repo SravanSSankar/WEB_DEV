@@ -1,6 +1,8 @@
 📚 My Book Shelf: A Personal Book Management System
 
 Welcome to My Book Shelf! This app is designed for book enthusiasts who want to keep track of the books they've read, along with details like authors, ratings, and reading dates. Powered by Node.js, Express, and PostgreSQL, this CRUD application seamlessly connects to the Open Library API to fetch book covers, creating a visually engaging experience. 📖
+
+
 🚀 Features
 
     Add Books: Easily add a new book to your collection with details like ISBN, title, author, description, rating, and the date read.
